@@ -12,12 +12,16 @@ Cách làm: File/Preferences/Setting, trên thanh Search settings gõ format, cl
 - Dùng tab Google Dev Tool để hoạt động code xuyên suốt
 - Sử dung tất cả các giao diện là Tiếng Anh
 
-3. Học cách sử dung git
-- Học git để đưa code lên web lưu trữ
+3. Học cách sử dụng git
+- Học git để đưa code lên web lưu trữ.
 
 4. Nội dung bài học
 Video 17: Hello World
 Video 18: Primitive Date Type (Kiểu dữ liệu nguyên thủy)
 Video 19: Kiểu dữ liệu tham chiếu
 Video 20: Toán tử số học, toán tử so sand, toán tử logic
-Video 21: Comment Code, các loại console, viết code cú pháp cho dễ hơn 
+Video 21: Comment Code, các loại console, viết code cú pháp cho dễ hơn, tô màu bằng console
+Video 22: Template String
+Lab1: Thực hành các kiến thức don giản đã học
+Video 26: Câu điều kiện
+Video 27: Switch case
