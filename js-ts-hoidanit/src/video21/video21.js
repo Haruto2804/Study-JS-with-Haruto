@@ -1,5 +1,5 @@
 console.log("Video21");
-// Comment code dùng Ctrl + /, Comment code nhiều dòng code bằng /* */
+//1. Comment code dùng Ctrl + /, Comment code nhiều dòng code bằng /* */
 
 //console
 console.log("Info"); // in thông tin bình thường, trắng
@@ -7,6 +7,7 @@ console.error("Oops my mistake!!"); // in lỗi, đỏ
 console.warn("test warning");// in cảnh báo, vàng
 // Error: Lỗi buộc phải fix, Warn: cảnh báo, nhưng vẫn chạy được, nếu fix đc thì càng tốt
 // Lưu ý:
+//2. viết code cú pháp cho dễ hơn
 // Không nên + chuỗi dễ sai
 let name = "Haruto";
 let age = 20;
@@ -20,5 +21,5 @@ console.log("Name:", name, ", Age: ", age);
 // in 2 biến một lúc
 console.log(name, age);
 
-// tô màu cho console.log(), bằng %c
+//3. tô màu cho console.log(), bằng %c
 console.log("%cCảnh báo", "color: red; font-weight: bold;");
