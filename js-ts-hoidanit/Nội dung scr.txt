@@ -1,0 +1,23 @@
+Cre: HoiDanIT
+Youtube: https://youtu.be/0EMUYgmxjTo?si=Ec-GgdBev3eUIKCc
+Google Drive tự học JS: https://drive.google.com/file/d/1PKmt2_jjpNpXRFKO9YnskCXHu-0vrQIh/view
+1. Cài đặt công cụ
+- Tải Visual Studio Code:
+link: https://code.visualstudio.com/
+- Setting format code, để Ctrl + S, để làm code trình bày đẹp, dễ nhìn hơn khi save File.
+Cách làm: File/Preferences/Setting, trên thanh Search settings gõ format, click chọn Editor: Format On Save
+- Cài extension: Auto Complete Tag: gợi ý cú pháp HTML/XML, Code Spell Checker: kiểm tra chính tả code
+
+2. Cấu hình Google Chorme
+- Dùng tab Google Dev Tool để hoạt động code xuyên suốt
+- Sử dung tất cả các giao diện là Tiếng Anh
+
+3. Học cách sử dung git
+- Học git để đưa code lên web lưu trữ
+
+4. Nội dung bài học
+Video 17: Hello World
+Video 18: Primitive Date Type (Kiểu dữ liệu nguyên thủy)
+Video 19: Kiểu dữ liệu tham chiếu
+Video 20: Toán tử số học, toán tử so sand, toán tử logic
+Video 21: Comment Code, các loại console, viết code cú pháp cho dễ hơn 
