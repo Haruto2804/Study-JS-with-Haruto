@@ -1,5 +1,5 @@
 console.log("Lab 2");
-// 1.Tạo hàm tinhTrungBinh(toan, van, anh)
+// 1.Tạo hàm dtb(toan, van, anh)
 // - Hàm nhận vào 3 điểm số (sử dụng tham số).
 // - Trả về điểm trung bình (sử dụng return).
 

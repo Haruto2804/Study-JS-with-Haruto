@@ -31,3 +31,4 @@ Video 30: Function - Tái sử dụng code để quản lí code
 Video 31: Arrow Function - phong cách viết code hiện đại
 Video 32: Keyword return
 Video 33: Scope - Phạm vi biến
+Video 37
