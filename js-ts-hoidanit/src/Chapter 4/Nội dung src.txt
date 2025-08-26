@@ -21,7 +21,7 @@ Video 18: Primitive Date Type (Kiểu dữ liệu nguyên thủy)
 Video 19: Kiểu dữ liệu tham chiếu
 Video 20: Toán tử số học, toán tử so sánh, toán tử logic
 Video 21: Comment Code, các loại console, viết code cú pháp cho dễ hơn, tô màu bằng console
-Video 22: Template String - Backtick
+Video 22: Template String
 Lab1: Thực hành các kiến thuc don giản da hoc
 Video 26: Câu điều kiện
 Video 27: Switch case
