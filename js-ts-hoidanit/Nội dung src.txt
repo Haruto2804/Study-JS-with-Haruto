@@ -31,4 +31,6 @@ Video 30: Function - Tái sử dụng code để quản lí code
 Video 31: Arrow Function - phong cách viết code hiện đại
 Video 32: Keyword return
 Video 33: Scope - Phạm vi biến
-Video 37
+Video 37: Mảng
+Video 38: Các thao tác trên mảng
+Viedo 39: Duyệt mảng (For - For each)
