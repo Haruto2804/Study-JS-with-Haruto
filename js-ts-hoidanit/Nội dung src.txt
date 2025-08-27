@@ -38,3 +38,4 @@ Video 40: Map
 Video 41: Filter
 Video 42: Object
 Video 43: Thao tác trên Object
+Video 44: Lặp Object (for in, for of)
