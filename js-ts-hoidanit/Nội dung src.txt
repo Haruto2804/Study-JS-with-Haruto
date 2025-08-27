@@ -34,3 +34,7 @@ Video 33: Scope - Phạm vi biến
 Video 37: Mảng
 Video 38: Các thao tác trên mảng
 Viedo 39: Duyệt mảng (For - For each)
+Video 40: Map
+Video 41: Filter
+Video 42: Object
+Video 43: Thao tác trên Object
