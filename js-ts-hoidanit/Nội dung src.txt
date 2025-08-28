@@ -40,4 +40,10 @@ Video 42: Object
 Video 43: Thao tác trên Object
 Video 44: Lặp Object (for in, for of)
 Video 49: truy cập phần tử HTML với DOM
-Video 50: Giới thiệu sự kiện (Event)
+Video 50: Xử lí sự kiện
+Video 51: Lắng nghe sự kiện với addEventListener
+Video 52: Thay đổi nội dung của HTML (innerText,innerHTML)
+Video 53: Thay đổi CSS bằng JS (style, classList)
+Video 54: Alert
+Video 55: Local Storage
+Video 56: 
