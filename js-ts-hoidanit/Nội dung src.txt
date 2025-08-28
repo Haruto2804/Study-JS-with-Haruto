@@ -39,3 +39,5 @@ Video 41: Filter
 Video 42: Object
 Video 43: Thao tác trên Object
 Video 44: Lặp Object (for in, for of)
+Video 49: truy cập phần tử HTML với DOM
+Video 50: Giới thiệu sự kiện (Event)
