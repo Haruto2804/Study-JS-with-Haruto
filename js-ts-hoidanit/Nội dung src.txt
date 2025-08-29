@@ -7,6 +7,9 @@ link: https://code.visualstudio.com/
 - Setting format code, để Ctrl + S, để làm code trình bày đẹp, dễ nhìn hơn khi save File.
 Cách làm: File/Preferences/Setting, trên thanh Search settings gõ format, click chọn Editor: Format On Save
 - Cài extension: Auto Complete Tag: gợi ý cú pháp HTML/XML, Code Spell Checker: kiểm tra chính tả code
+- Cài NodeJS: https://nodejs.org/download/release/v22.13.0/
++ Nếu là window thì cài .msi
++ Mở terminal nhập code node -v: nếu đã cài nodejs thì sẽ xuất hiện version
 
 2. Cấu hình Google Chorme
 - Dùng tab Google Dev Tool để hoạt động code xuyên suốt
@@ -39,11 +42,10 @@ Video 41: Filter
 Video 42: Object
 Video 43: Thao tác trên Object
 Video 44: Lặp Object (for in, for of)
-Video 49: truy cập phần tử HTML với DOM
+Video 49: truy cập phần tửs HTML với DOM
 Video 50: Xử lí sự kiện
 Video 51: Lắng nghe sự kiện với addEventListener
 Video 52: Thay đổi nội dung của HTML (innerText,innerHTML)
 Video 53: Thay đổi CSS bằng JS (style, classList)
 Video 54: Alert
 Video 55: Local Storage
-Video 56: 
