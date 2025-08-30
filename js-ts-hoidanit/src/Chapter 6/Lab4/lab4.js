@@ -31,5 +31,7 @@ myBtn.addEventListener("click", () => {
         window.location.href = "welcome.html"; // cú pháp redirect
     }else {
         alert("Tài khoản hoặc mật khẩu sai");
+        usernameElement.style.borderColor = "red";
+        passwordElement.style.borderColor = "red";
     }
 })
